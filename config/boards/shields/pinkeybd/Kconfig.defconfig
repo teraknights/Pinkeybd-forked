@@ -10,9 +10,9 @@ if SHIELD_PINKEYBD_RIGHT
         bool
         default y
 
-    config PMW3610
-        bool
-        default y
+#    config PMW3610
+#        bool
+#        default y
 
     config ZMK_BLE
         bool
